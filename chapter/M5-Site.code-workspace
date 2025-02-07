@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "chapter",
+      "path": "."
+    },
+    {
+      "name": "M5-Site",
+      "path": "../../../github/M5-Site"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "chapter"
+  }
+}
